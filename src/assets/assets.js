@@ -5,7 +5,7 @@ import app_store from './app_store.png'
 import bag_icon from './bag_icon.png'
 import cross_icon from './cross_icon.png'
 import facebook_icon from './facebook_icon.png';
-
+import header_img from './header_img.png'
 
 
 
@@ -19,6 +19,7 @@ export default {
   bag_icon,
   cross_icon,
   facebook_icon,
+  header_img
   
   
 };
