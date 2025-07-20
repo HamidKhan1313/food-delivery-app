@@ -29,6 +29,23 @@ import food_11 from './food_11.png'
 import food_12 from './food_12.png'
 import food_13 from './food_13.png'
 import food_14 from './food_14.png'
+import food_16 from './food_16.png'
+import food_17 from './food_17.png'
+import food_18 from './food_18.png'
+import food_19 from './food_19.png'
+import food_20 from './food_20.png'
+import food_21 from './food_21.png'
+import food_22 from './food_22.png'
+import food_23 from './food_23.png'
+import food_24 from './food_24.png'
+import food_25 from './food_25.png'
+import food_26 from './food_26.png'
+import food_27 from './food_27.png'
+import food_28 from './food_28.png'
+import food_29 from './food_29.png'
+import food_30 from './food_30.png'
+import food_31 from './food_31.png'
+import food_32 from './food_32.png'
 
 
 
@@ -149,16 +166,16 @@ export const food_list = [
 },
 {
   _id: '8',
-  name: 'Ripple Ice Creem',
+  name: 'Paratha Roll',
   image: food_8,
   price: 16,
   description: "Food provide essential nutrients for overall health and well-being",
-  category: 'IceCream'
+  category: 'Rolls'
 
 },
 {
   _id: '9',
-  name: 'Fruit Ice Creem',
+  name: 'Ripple Ice Creem',
   image: food_9,
   price: 21,
   description: "Food provide essential nutrients for overall health and well-being",
@@ -167,7 +184,7 @@ export const food_list = [
 },
 {
   _id: '10',
-  name: 'Jar Ice Creem',
+  name: 'Fruit Ice Creem',
   image: food_10,
   price: 10,
   description: "Food provide essential nutrients for overall health and well-being",
@@ -176,7 +193,7 @@ export const food_list = [
 },
 {
   _id: '11',
-  name: 'Vanilla Ice Creem',
+  name: 'Jar Ice Creem',
   image: food_11,
   price: 12,
   description: "Food provide essential nutrients for overall health and well-being",
@@ -185,16 +202,16 @@ export const food_list = [
 },
 {
   _id: '12',
-  name: 'Chicken Sandwich',
+  name: 'Vanilla Ice Creem',
   image: food_12,
   price: 12,
   description: "Food provide essential nutrients for overall health and well-being",
-  category: 'Sandwich'
+  category: 'IceCream'
 
 },
 {
   _id: '13',
-  name: 'Vegan Sandwich',
+  name: 'Chicken Sandwich',
   image: food_13,
   price: 18,
   description: "Food provide essential nutrients for overall health and well-being",
@@ -203,14 +220,170 @@ export const food_list = [
 },
 {
   _id: '14',
-  name: 'Grilled Sandwich',
+  name: 'Vegan Sandwich',
   image: food_14,
   price: 16,
   description: "Food provide essential nutrients for overall health and well-being",
   category: 'Sandwich'
 
-}
+},
+{
+  _id: '16',
+  name: 'Grilled Sandwich',
+  image: food_16,
+  price: 24,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Sandwich'
+
+},
+{
+  _id: '17',
+  name: 'Cup Cake',
+  image: food_17,
+  price: 14,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Cake'
+
+},
+{
+  _id: '18',
+  name: 'Veg Cake',
+  image: food_18,
+  price: 12,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Cake'
+
+},
+{
+  _id: '19',
+  name: 'Butterscatch Cake',
+  image: food_19,
+  price: 20,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Cake'
+
+},
+{
+  _id: '20',
+  name: 'Slice Cake',
+  image: food_20,
+  price: 15,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Cake'
+
+},
+{
+  _id: '21',
+  name: 'Egg Plant',
+  image: food_21,
+  price: 12,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Vegetables'
+
+},
+{
+  _id: '22',
+  name: 'Cauli Flower',
+  image: food_22,
+  price: 16,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Vegetable'
+
+},
+{
+  _id: '23',
+  name: 'Mix Vegetables',
+  image: food_23,
+  price: 14,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Vegetables'
+
+},
+{
+  _id: '24',
+  name: 'Vegi Rice',
+  image: food_24,
+  price: 15,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Rice'
+
+},
+{
+  _id: '25',
+  name: 'Chicken Pasta',
+  image: food_25,
+  price: 20,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Pasta'
+
+},
+{
+  _id: '26',
+  name: 'Vegi Pasta',
+  image: food_26,
+  price: 18,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Pasta'
+
+},
+{
+  _id: '27',
+  name: 'Alfredo Pasta',
+  image: food_27,
+  price: 25,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Pasta'
+
+},
+{
+  _id: '28',
+  name: 'Chicken Spaghetti',
+  image: food_28,
+  price: 18,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Spaghettis'
+
+},
+{
+  _id: '29',
+  name: 'Spaghetti Bolognese',
+  image: food_29,
+  price: 15,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Spaghettis'
+
+},
+{
+  _id: '30',
+  name: 'Scotts Spaghettis',
+  image: food_30,
+  price: 16,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Spaghettis'
+
+},
+{
+  _id: '31',
+  name: 'Spaghetti Mix',
+  image: food_31,
+  price: 25,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Spaghettis'
+
+},
+{
+  _id: '32',
+  name: 'Spaghetti Noodles',
+  image: food_32,
+  price: 18,
+  description: "Food provide essential nutrients for overall health and well-being",
+  category: 'Spaghettis'
+
+},
 ]
+
+
+
   
 
 
