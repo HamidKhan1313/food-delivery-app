@@ -1,3 +1,4 @@
+import add_icon_green from './add_icon_green.png'
 import logo from './logo.png';
 import search_icon from './search_icon.png';
 import basket_icon from './basket_icon.png';
@@ -46,6 +47,12 @@ import food_29 from './food_29.png'
 import food_30 from './food_30.png'
 import food_31 from './food_31.png'
 import food_32 from './food_32.png'
+import add_icon_white from './add_icon_white.png'
+ import remove_icon_red from './remove_icon_red.png'
+
+
+  
+
 
 
 
@@ -61,8 +68,12 @@ export default {
   cross_icon,
   facebook_icon,
   header_img,
-  rating_starts
-  
+  rating_starts,
+  add_icon_white,
+  remove_icon_red,
+ add_icon_green
+
+ 
   
 };
 export const menue_list = [
