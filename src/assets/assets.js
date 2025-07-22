@@ -51,6 +51,7 @@ import add_icon_white from './add_icon_white.png'
  import remove_icon_red from './remove_icon_red.png'
  import twitter_icon from './twitter_icon.png'
  import linkedin_icon from './linkedin_icon.png'
+ import play_store from './play_store.png'
 
 
   
@@ -75,7 +76,8 @@ export default {
   remove_icon_red,
  add_icon_green,
  twitter_icon,
- linkedin_icon
+ linkedin_icon,
+ play_store
 
  
   
